@@ -1,3 +1,3 @@
-# Hybrid classification of lithologies using interpolation of petrophysical properties, random forest and SLIC superpixels
+# CLASSIFICATION OF LITHOLOGIES WITH DATA INTEGRATION FROM IODP USING INTERPOLATION OF PETROPHYSICAL PROPERTIES, RANDOM FOREST AND SLIC
 
 Supplementary material and computer code related to article 2
