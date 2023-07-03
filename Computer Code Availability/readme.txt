@@ -1,3 +1,3 @@
 Program name: LITHOPY version 2
-Title of the manuscript: Hybrid classification of lithologies using interpolation of petrophysical properties, random forest and SLIC superpixels
+Title of the manuscript: CLASSIFICATION OF LITHOLOGIES WITH DATA INTEGRATION FROM IODP USING INTERPOLATION OF PETROPHYSICAL PROPERTIES, RANDOM FOREST AND SLIC
 Author(s): Thiago Santi Bressan
